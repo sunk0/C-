@@ -1,0 +1,11 @@
+C:\Users\SUNKO\source\repos\Task-two\Task-two\bin\Debug\netcoreapp2.1\Task-two.deps.json
+C:\Users\SUNKO\source\repos\Task-two\Task-two\bin\Debug\netcoreapp2.1\Task-two.runtimeconfig.json
+C:\Users\SUNKO\source\repos\Task-two\Task-two\bin\Debug\netcoreapp2.1\Task-two.runtimeconfig.dev.json
+C:\Users\SUNKO\source\repos\Task-two\Task-two\bin\Debug\netcoreapp2.1\Task-two.dll
+C:\Users\SUNKO\source\repos\Task-two\Task-two\bin\Debug\netcoreapp2.1\Task-two.pdb
+C:\Users\SUNKO\source\repos\Task-two\Task-two\obj\Debug\netcoreapp2.1\Task-two.csprojAssemblyReference.cache
+C:\Users\SUNKO\source\repos\Task-two\Task-two\obj\Debug\netcoreapp2.1\Task-two.csproj.CoreCompileInputs.cache
+C:\Users\SUNKO\source\repos\Task-two\Task-two\obj\Debug\netcoreapp2.1\Task-two.AssemblyInfoInputs.cache
+C:\Users\SUNKO\source\repos\Task-two\Task-two\obj\Debug\netcoreapp2.1\Task-two.AssemblyInfo.cs
+C:\Users\SUNKO\source\repos\Task-two\Task-two\obj\Debug\netcoreapp2.1\Task-two.dll
+C:\Users\SUNKO\source\repos\Task-two\Task-two\obj\Debug\netcoreapp2.1\Task-two.pdb

@@ -1,0 +1,11 @@
+C:\Users\SUNKO\source\repos\task-one-one\task-one-one\bin\Debug\netcoreapp2.1\task-one-one.deps.json
+C:\Users\SUNKO\source\repos\task-one-one\task-one-one\bin\Debug\netcoreapp2.1\task-one-one.runtimeconfig.json
+C:\Users\SUNKO\source\repos\task-one-one\task-one-one\bin\Debug\netcoreapp2.1\task-one-one.runtimeconfig.dev.json
+C:\Users\SUNKO\source\repos\task-one-one\task-one-one\bin\Debug\netcoreapp2.1\task-one-one.dll
+C:\Users\SUNKO\source\repos\task-one-one\task-one-one\bin\Debug\netcoreapp2.1\task-one-one.pdb
+C:\Users\SUNKO\source\repos\task-one-one\task-one-one\obj\Debug\netcoreapp2.1\task-one-one.csprojAssemblyReference.cache
+C:\Users\SUNKO\source\repos\task-one-one\task-one-one\obj\Debug\netcoreapp2.1\task-one-one.csproj.CoreCompileInputs.cache
+C:\Users\SUNKO\source\repos\task-one-one\task-one-one\obj\Debug\netcoreapp2.1\task-one-one.AssemblyInfoInputs.cache
+C:\Users\SUNKO\source\repos\task-one-one\task-one-one\obj\Debug\netcoreapp2.1\task-one-one.AssemblyInfo.cs
+C:\Users\SUNKO\source\repos\task-one-one\task-one-one\obj\Debug\netcoreapp2.1\task-one-one.dll
+C:\Users\SUNKO\source\repos\task-one-one\task-one-one\obj\Debug\netcoreapp2.1\task-one-one.pdb
